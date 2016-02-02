@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1454365246
+#1454391983
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -38,6 +38,20 @@ images/fondojuego-sheet1.png
 images/fondojuego-sheet2.png
 images/sprite-sheet0.png
 images/star_casillero-sheet0.png
+images/fondo2-sheet0.png
+images/efect-sheet0.png
+images/sprite2-sheet0.png
+media/rightchime1.ogg
+media/button-46.ogg
+media/button-46.m4a
+media/ganar%20juego_2.ogg
+media/ganar_juego_2.m4a
+media/vocal%20a.ogg
+media/vocal%20e.ogg
+media/vocal%20i.ogg
+media/vocal%20o.ogg
+media/vocal%20u.ogg
+media/lazarillo_1ra_canci_n_.ogg
 icon-16.png
 icon-32.png
 icon-114.png
