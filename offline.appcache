@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1456696283
+#1456851020
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -54,7 +54,14 @@ media/vocal%20e.ogg
 media/vocal%20i.ogg
 media/vocal%20o.ogg
 media/vocal%20u.ogg
+media/vocal_a.m4a
+media/rightchime1.m4a
+media/vocal_e.m4a
+media/vocal_i.m4a
+media/vocal_o.m4a
+media/vocal_u.m4a
 media/lazarillo_1ra_canci_n_.ogg
+media/lazarillo_1ra_canci_n_.m4a
 icon-16.png
 icon-32.png
 icon-114.png
