@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1458278741
+#1458313254
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -58,6 +58,10 @@ media/vocalo.m4a
 media/vocalo.ogg
 media/vocalu.m4a
 media/vocalu.ogg
+media/chicos_gritanchicos_gritan.m4a
+media/chicos_gritanchicos_gritan.ogg
+media/ganar%20juego_2.ogg
+media/ganar_juego_2.m4a
 media/lazarillo_1ra_canci_n_.ogg
 media/lazarillo_1ra_canci_n_.m4a
 icon-16.png
